@@ -38,3 +38,14 @@
 
 - `npm audit`
 	: it detects all security vulnerabilities in the dependencies which could be exploited by a hacker
+
+## React Related
+
+- `npm install serve -g`
+	: Installs *serve* , a lightweight web server. It serves static site and single page application.
+
+- `serve ./index.html`
+	: Runs single html file to the following path http://localhost:5000
+
+- `npm install -g create-react-app`
+	:  creates single page React application skeleton
